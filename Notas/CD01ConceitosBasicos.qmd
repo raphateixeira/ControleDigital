@@ -1,0 +1,53 @@
+---
+title: "Controle Digital: Conceitos Fundamentais"
+subtitle: "Sistema de Controle II"
+institute: "Universidade Federal do Pará"
+author: "Prof. Dr. Raphael Teixeira"
+format: 
+  revealjs:
+    theme: [default, ../TemaRTx.scss] 
+    self-contained: true
+    transition: slide
+    slide-number: true
+    width: 1600 
+    height: 900
+    footer: " "
+    center: true
+    title-slide-attributes:
+      data-background-image: "../Notas/imgs/UFPA.png"
+      data-background-size: "100px"
+      data-background-position: "top 40px center"
+---
+
+## Sistemas de Controle II
+
+:::{.columns}
+::: {.column width="50%"}
+ - 6o semestre do curso de Engenharia Elétrica
+ - Carga horária: 60 horas
+ - Presencial
+ - Requisitos: Análise de Sistemas Lineares e Sistemas de Controle I; 
+ - Aborda teoria de controle em espaços de estados e controle digital.
+
+:::
+::: {.column width="50%"}
+
+  - **Ementa Espaço de Estados**: Modelagem de sistemas físicos; Representação em espaço de estados; Análise de sistemas no espaço de estados; Controle de sistemas no espaço de estados; Observadores de estado; Projeto de controladores e observadores; Controe de sistemas não lineares; Linearização; Estabilidade, controlabilidade e observabilidade; Regulação e Rastreamento.
+
+  - **Ementa Controle Digital**: Controle digital; Amostragem e reconstrução de sinais; Sinais e sistemas discretos; Transformada $Z$;Análise de sistemas amostrados; Projeto de controladores digitais; Implementação de controladores digitais.
+
+
+:::
+:::
+
+---
+
+## Bibliografia
+
+- **Livro  1**: Ogata, Katsuhiko. "Engenharia de Controle Moderno" 5th Edition. Prentice Hall, 2010.
+- **Livro  2**: Nise, Norman S. "Engenharia de Sistemas de Controle." 7th Edition. Wiley, 2015.
+- **Livro  3**: Dorf, Richard. "Sistemas de Controle Moderno." 13th Edition. Pearson, 2016.
+
+![](imgs/LivrosControle.png){width=60%}
+
+---

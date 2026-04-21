@@ -1,0 +1,18 @@
+---
+title: "Controle Digital"
+subtitle: "Sistemas de Controle II"
+institute: "Universidade Federal do Pará"
+author: "Prof. Dr. Raphael Teixeira"
+date: ""
+format: 
+  html:
+    page-layout: article
+---
+
+Notas de aula de Sistemas de Controle II - Controle Digital:
+
+Turma de 2024 da FEE - CAMTUC - UFPA.
+
+* Nota 0 - [Plano de Ensino](Notas/SS00PlanoEnsino.html)
+* Nota 1 - [Modelagem no Espaço de Estados](Notas/SS01Modelagem.html)
+* Nota 2 - [Conversão de Representações](Notas/SS02ConversaoRepresentacoes.html)
