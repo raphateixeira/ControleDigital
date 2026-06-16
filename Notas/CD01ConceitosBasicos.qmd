@@ -48,6 +48,4 @@ format:
 - **Livro  2**: Nise, Norman S. "Engenharia de Sistemas de Controle." 7th Edition. Wiley, 2015.
 - **Livro  3**: Dorf, Richard. "Sistemas de Controle Moderno." 13th Edition. Pearson, 2016.
 
-![](imgs/LivrosControle.png){width=60%}
-
 ---
