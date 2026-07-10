@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://raphateixeira.github.io/ControleDigital/index.html</loc>
-    <lastmod>2026-06-16T22:30:29.567Z</lastmod>
+    <lastmod>2026-07-10T02:31:16.160Z</lastmod>
   </url>
   <url>
-    <loc>https://raphateixeira.github.io/ControleDigital/Notas/CD01ConceitosBasicos.html</loc>
-    <lastmod>2026-06-16T22:30:29.566Z</lastmod>
+    <loc>https://raphateixeira.github.io/ControleDigital/Notas/CD01TransformadaZ.html</loc>
+    <lastmod>2026-07-10T02:31:16.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphateixeira.github.io/ControleDigital/Notas/CD03ProjetoControle.html</loc>
+    <lastmod>2026-07-10T02:31:16.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://raphateixeira.github.io/ControleDigital/Notas/CD02Discretizacao.html</loc>
+    <lastmod>2026-07-10T02:31:16.160Z</lastmod>
   </url>
 </urlset>
