@@ -13,4 +13,19 @@ Notas de aula de Sistemas de Controle II - Controle Digital:
 
 Turma de 2024 da FEE - CAMTUC - UFPA.
 
-* Nota 0 - [Plano de Ensino](Notas/CD01ConceitosBasicos.qmd)
+```{=html}
+<div class="categoria-grid">
+<a class="categoria-card" href="Notas/CD01TransformadaZ.qmd">
+  <h3>Nota 1</h3>
+  <p>Transformada Z</p>
+</a>
+<a class="categoria-card" href="Notas/CD02Discretizacao.qmd">
+  <h3>Nota 2</h3>
+  <p>Equivalentes Discretos</p>
+</a>
+<a class="categoria-card" href="Notas/CD03ProjetoControle.qmd">
+  <h3>Nota 3</h3>
+  <p>Projeto de Controle Digital</p>
+</a>
+</div>
+```

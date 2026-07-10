@@ -2,3 +2,7 @@
 **/*.quarto_ipynb
 
 /docs/
+.DS_Store
+Notas/*.log
+NotaEmail.txt
+Notas/draft.txt
